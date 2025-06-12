@@ -1,0 +1,111 @@
+session,grade,problem_id,question
+s1,9,1,"If the compound proposition (q'_r)'_p is false, then find the truth value of (q_p)_(r_p)"
+s1,9,2,Simplify the compound proposition ((p_q)_q)_((p_q')_q')
+s1,9,3,"A basketball team coach is thinking about a line-up for a match. He is taking the following conditions into account:
+i. If player A plays, then player B won’t play.
+ii. If player B plays, then players A or C will play.
+iii. Players B and C will not play together.
+Which player will definitely not play?"
+s1,9,4,"For a two digit natural number AB, consider the propositions given below.
+p: AB is even number.
+q: AB is prime number.
+r: A+B=11.
+If the compound proposition (p_q)_(q'_r) is true, then find the value of A_B."
+s1,10,1,"Find the number of subsets of A with 3 elements containing b or f, where A={a,b,c,d,e,f}"
+s1,10,2,Find the number of 5 person groups chosen from 6 girls and 5 boys that contain at least 1 boy
+s1,10,3,In how many ways can 12 people form 3 teams of 4 people?
+s1,10,4,"In a mathematics lesson, the teacher asked Naz how 3 students out of the class could be chosen in different ways, Mert how 5 students could be chosen in different ways, and Zeynep how 11 students could be chosen in different ways. All three students calculated the requested numbers correctly. Given that the numbers found by Mert and Zeynep are the same positive integer, what is the number Naz found?"
+s1,11,1,"Find the equation of the line which passes through A(-2,3) and parallel to 2x-3y+5=0"
+s1,11,2,"Write the equation of the line passing through the point C(2,3) and perpendicular to the line passing through the points D(2,1) and E(-1,3)."
+s1,11,3,"A plane flies along a straight line L_1 with equation y=2x-5. Determine the equation of the line L_2 that represents the trajectory of another plane flying at the same altitude that should not intersect L_1 and should pass through (3,-1)."
+s1,11,4,"Suppose a and b are real numbers, and that 3y=2x+a and by=3x-12 are perpendicular lines that intersect at the y-axis. Find a+b."
+s2,9,1,"If converse of r_(p_q) is false, then find the truth value of inverse of (q_p)_(r_p)."
+s2,9,2,Simplify the compound proposition [(p'_q)_(p_q')]_ [p'_(q_q')]
+s2,9,3,"In a security system, there are four switches: A, B, C, and D. The switches can be either in the ON position ('1') or the OFF position ('0'). To decrypt a special code, the following logical condition must be met: Y=(A_B)_(C'_D)_A. However, due to an advanced safeguard mechanism, two switches are interconnected in such a way that if one is ON, the other is forced to be OFF, and vice versa. These interconnected switches are B and C. Given these circumstances, for the code to be decrypted (for Y to be '1'), what are the possible combination of switches need to be turned on and off?"
+s2,9,4,"Consider the following proposition: 'If at least one prime number is even, then the square of every real number is positive'. (a) Find its truth value. (b) Write its negation."
+s2,9,5,"In a class of 20 students, everyone except possibly Pınar, Refik, Sami, and Tolga is present. The mathematics teacher uses symbolic logic to represent the attendance of these four students:
+p: Pınar is in the class.
+r: Refik is in the class.
+s: Sami is in the class.
+t: Tolga is in the class.
+Upon entering the class, the teacher recorded the attendance on the board using the rules of symbolic logic as follows:
+I. p'_r_1
+II. s_p_0
+III. p'_t _1
+Based on the given conditions, which among Pınar, Refik, Sami, and Tolga are present in the class?"
+s2,10,1,"A and B are two mutually exclusive events. If P(A'_B)=0.5 and P(A'_B')=0.2, find P(A)"
+s2,10,2,"We are given seven courses, each with a set number of weekly teaching hours as follows: 
+Course 1: 5 hours
+Course 2: 4 hours
+Course 3: 4 hours
+Course 4: 5 hours
+Course 5: 3 hours
+Course 6: 5 hours
+Course 7: 5 hours
+We are to randomly select four courses from this pool and determine the probability that the total weekly teaching hours of the selected courses will equal 17."
+s2,10,3,"A digital lock is operated by a 3-character code. Each character can be any lowercase letter ('a' to 'z') or digit (0 to 9). This means each position has 36 possible characters (26 letters and 10 numbers). What is the probability that a code, randomly set, starts with a letter and ends with a number?"
+s2,10,4,5 adults and their 7 children are going to the cinema. They will sit randomly in three rows of 4 seats each. What is the probability that four of the adults will be seated at the back row?
+s2,10,5,"Find the probability that a random arrangement of twelve letters in the word HIPPOPOTAMUS begins with a vowel and that every O follows a P (i.e., O can only occur after P). (Take vowels in the English alphabet to be A, E, I, O, and U)."
+s2,11,1,"On the cartesian coordinate plane, line L is passing through (-1,2) and parallel to 2y-4x-5=0. Let (a,0) and (0,b) be the x-intercept and y-intercept of the line L, respectively. Find the sum of a and b."
+s2,11,2,"Find the equation of the line that passes through the midpoint of A(3,5) and B(-1,3), and is perpendicular to the line passing through A and B."
+s2,11,3,"If the centroid of triangle ABC which has the vertices A(a-4,-a-5), B(-2a+1,2a-7), and C(4a-6,2a-3) is on the 4th quadrant (x-coordinate is positive and y-coordinate is negative), and a is an integer, then find the value of a."
+s2,11,4,"If the lines below intersect at the same point on the cartesian coordinate plane, find the value of m: Line 1 passes through (0,1) and has a slope m. Line 2 passes through origin and has a slope 2m. Line 3 passes through (1,0) and has a slope 3m."
+s2,11,5,"Duru pinned her position on a map at (1,-1) and drew the path she wanted to reach as a straight line. She noticed that the line she drew passes through (-1,3) and (-5,6). Help Duru find the shortest distance from her position to the path by describing what she should do and finding the distance."
+s3,9,1,"Suppose that
+
+A={x|24<x<=150,x=4k,k\in Z}
+B={x|12<=x<144,x=6k,k\in Z}
+
+Then, what is the number of elements n(A_B) in the set A_B?"
+s3,9,2,"Given sets
+
+A={a,b,c}
+B={1,2,3,4,a,b,c}
+
+how many different subsets K are there such that K is not equal to A, K is not equal to B, A is a subset of K, and K is a subset of B?"
+s3,9,3,"On a certain website, the number of people who can use both a bicycle and a motorcycle is 10, and the number of people who can use at least one of them is 35. On this site, if the number of people who can use a motorcycle is twice the number of people who can use a bicycle, how many people can use only a motorcycle?"
+s3,9,4,"For sets A and B, suppose that the following hold:
+
+n(A_B')=2*n(A_B)
+n(B-A)=6
+n(A)=2*n(B)+1
+
+Find n(A_B)."
+s3,9,5,"Suppose a, b, and c are one-digit natural numbers, x is a positive integer, and a<b<c. Define the sets
+
+A={x|x^2<42}
+B={1,2,3,7,8,9}
+C={a,b,c}
+
+The number of elements in the Cartesian product (A_C)_(B_C) is 54. Find the sum of possible values for c."
+s3,10,1,"Determine if the following relations represents a function or not. Justify your answer by giving reasons.
+a) f={(1,2),(2,2),(3,2),(4,2)} defined on set A={1,2,3,4,5}
+b) g(x)=√x+_(2x-5) where the relation is defined from R^+_{0} to R, where R^+ is the set of positive real numbers
+c) y^2+x=5, where x,y_R"
+s3,10,2,Find the largest possible domain of the function f(x)=(x+3)/√(x-5)+_(7-x).
+s3,10,3,Suppose f:A->B is a one to one and onto function. The number of elements in set A and B are n(A)=5*t-12 and n(B)=3*t-6. Suppose we define another function from B to C where n(C)=2*n(A). How many different constant functions can be defined from B to C?
+s3,10,4,"Suppose f, h, and g are functions defined on R. If h(x)=f(x)+g(3*x-5) is a linear function where g(x) is an identity function, evaluate h(-2), where f(-3)=4 and f(2)=-6."
+s3,10,5,"As a marketing coordinator, you are analysing the impact of advertising on product sales. You have observed that starting from an initial sales amount (without any advertising), each additional 1,000 TRY spent on advertising leads to an increase of 15 units in product sales. If you know that without any advertising, the sales are 100 units, formulate the linear function that describes this relationship.
+
+a) Define the linear function f:A->S, where A is the amount spent on advertising (in thousand TRY) and S is the total number of units sold. Use the given initial sales and the rate of increase in sales with advertising expenditure to determine f(x).
+b) Calculate the expected sales if 17,000 TRY is spent on advertising."
+s3,11,1,"Consider the quadratic function f(x)=-2x^2+8x+3, which models the height (in meters) of a ball thrown upwards, with x representing the time in seconds after the ball has been thrown. Calculate the average rate of change of the ball's height over the interval from 2 seconds to 4 seconds."
+s3,11,2,"Consider a parabola defined by the equation y=a*x^2+b*x+c, where a, b, and c are real numbers. This parabola intersects with the line y=6 at exactly one point. If the parabola intersects x-axis at x=-1 and x=5, then determine the signs (positive, negative, or zero) of the coefficients a, b, and c."
+s3,11,3,"Consider the function F(S)=0.005S^2-0.6S+25, where  F(S) represents a vehicle's fuel consumption in litres per 100 kilometres and S is the speed of the vehicle in kilometres per hour. For speeds ranging from 50 to 100 km/h, calculate the minimum and maximum fuel consumption value."
+s3,11,4,The line y=m*x-4 is tangent to the parabola y=x^2-x. Find the possible values of m.
+s3,11,5,"Determine the area of triangle TAB formed by a quadratic function f(x)=a*x^2+b*x+c, where the vertex of the parabola is denoted as point T, the x-intercepts of the parabola are the points A(-2,0) and B(8,0), and the y-intercept of the parabola is (0,-16)."
+s4,9,1,"For A and B natural numbers, if A is divided by 6, then the quotient is B and the remainder is 5. Suppose that if B is divided by 5, then the remainder is 4. Find the remainder when A is divided by 15."
+s4,9,2,"Emre, a store manager, is entering the total sales and the number of items sold into the computer when he notices an error in the invoice. The total sales amount for a product, which is priced at _11 per unit, is incorrectly recorded as _27,360. This error is due to two consecutive digits being written in the wrong order. How many units were sold?"
+s4,9,3,"A five-digit number is represented as a4c5c. If this number becomes divisible by 12 when 7 is added to it, what is the highest possible value for the sum of a+c?"
+s4,9,4,"A school is planning to distribute 72 pencils and 90 notebooks among students in a class, ensuring each student gets the same number of pencils and the same number of notebooks without any leftovers. What is the maximum number of students that can be in the class?"
+s4,9,5,"In a music school, two students are practicing their scales on different instruments. Alice practices her piano scales every 12 days, while Bob practices his violin scales every 18 days. They both had their first practice session on Tuesday. What will be the day of their 4th joint practice session?"
+s4,11,1,"If a function f(x)=x^2-4x+5 is translated a units right and b units down, the resulting function is g(x)=x^2-6x+4. Find the value of a_b."
+s4,11,2,"Describe, in order, a sequence of transformations that maps the graph of y=f(x) onto the graph y =-3f(x)+2."
+s4,11,3,Suppose that 7/(x+1)-y=8 and x-5/(y+1)=6. Find the value of x+y.
+s4,11,4,Suppose that x^2+y^2=11 and x/(x+y)+y/(x-y)=11/7. Find the possible y values that satisfied the system of the equations.
+s4,11,5,"Elif is designing a rectangular playground. The length of the playground is y meters and the width is x meters. She plans to install a special rubber surface on the playground, which costs $30 per m^2. The diagonal of the playground is √500m. Elif had spent of $6000 for the rubber surface. What are the dimensions of the playground?"
+s4,10,1,Let f(x)=1/(x^2-1) and g(x)=√(x+1) be given. Find the domain of f(g(x)).
+s4,10,2,"A city's public transportation system includes a bus service and a subway. The expected number of people using the bus service on any given day can be modelled by the function B(d)=100*d-500, where d is the day of the month. The expected number of people using the subway depends on the expected number of bus users and can be modelled by the function S(p)=0.75*p+200, where p is the expected number of bus users. The city transportation department wants to create a composite function T(d) to directly relate the day of the month to the expected number of subway users. (a) Determine the explicit form of the composite function T(d). (b) Calculate the day of the month if the expected number of subway users is 950."
+s4,10,3,"For the two functions f and g, composition of these functions is equal to their product (i.e., (f_g)(x)=f(x)*g(x)), and also f(x)=2*x-5. Find the value of g(3)."
+s4,10,4,Suppose f^(-1)(x)=x^3 and g(x)=(2x-1)/(x+3) are two functions defined on their largest domain. Find (f_g)^(-1)(x).
+s4,10,5,"Suppose f(x) is a linear function which is self-inverse (i.e., the inverse of f(x) is itself). If g(x) is the identity function and f(3)-g(2)=13, find f(x)."
