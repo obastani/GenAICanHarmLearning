@@ -179,6 +179,6 @@ If you use our scripts or data, please cite the our paper.
   title={Generative AI without guardrails can harm learning: Evidence from high school mathematics},
   author={Bastani, Hamsa and Bastani, Osbert and Sungu, Alp and Ge, Haosen and Kabakc{\i}, Ozge and Mariman, Rei},
   journal={PNAS},
- year={(Forthcoming)}
+  year={2025}
 }
 ```
